@@ -1,0 +1,54 @@
+{
+  "schema_version": "IFC-EGRESS-CONTRACT-1.0",
+  "task_id": "IFC_EGRESS_ROUTE_PRECHECK",
+  "description": "Machine-readable evidence contracts for the bounded IFC egress-door/building-information task.",
+  "states": ["pass", "fail", "pending"],
+  "pending_semantics": "Evidence not resolved on an admitted path remains pending and emits the source request; it is not converted to a legal or engineering verdict.",
+  "entity_layer": ["IfcDoor", "IfcBuilding", "IfcOpeningElement", "IfcWall", "IfcDoorType", "property-bearing object"],
+  "relation_layer": [
+    "occurrence attribute or property",
+    "IfcRelDefinesByType -> IfcDoorType",
+    "IfcRelFillsElement -> IfcOpeningElement -> IfcRelVoidsElement -> host",
+    "IfcRelDefinesByProperties -> IfcPropertySet"
+  ],
+  "value_layer": {
+    "length_unit": "project length unit normalized to metres",
+    "accepted_width_source": "IfcDoor.OverallWidth or admitted type/property equivalent",
+    "accepted_shared_source": "declared building-level BuildingClass property",
+    "accepted_fire_tokens": "non-empty token in the declared fire-rating vocabulary"
+  },
+  "rules": [
+    {
+      "id": "EGR-01",
+      "selector": "IfcDoor",
+      "evidence_paths": ["occurrence attribute OverallWidth", "IfcRelDefinesByType -> IfcDoorType", "admitted property path"],
+      "predicate": {"kind": "numeric_greater_equal", "field": "OverallWidth", "threshold": 0.9, "unit": "m"},
+      "pending_when": "no admitted width path or unreadable unit/value",
+      "engineering_action": "request the width source and preserve the door identifier"
+    },
+    {
+      "id": "EGR-02",
+      "selector": "IfcDoor",
+      "evidence_paths": ["IfcRelFillsElement -> IfcOpeningElement -> IfcRelVoidsElement -> host"],
+      "predicate": {"kind": "relation_resolves", "target": "door context"},
+      "pending_when": "the admitted opening/host chain is unavailable",
+      "engineering_action": "request the host relation or re-export the opening context"
+    },
+    {
+      "id": "EGR-03",
+      "selector": "IfcBuilding",
+      "evidence_paths": ["shared property set -> BuildingClass"],
+      "predicate": {"kind": "token_in_vocabulary", "field": "BuildingClass"},
+      "pending_when": "the shared building source is unavailable or unreadable",
+      "engineering_action": "request one shared building source before triaging dependent rows"
+    },
+    {
+      "id": "EGR-04",
+      "selector": "applicable object",
+      "evidence_paths": ["occurrence property", "IfcRelDefinesByType -> type property", "IfcRelDefinesByProperties -> IfcPropertySet"],
+      "predicate": {"kind": "non_empty_token_in_vocabulary", "field": "FireRating"},
+      "pending_when": "the property/type source is unavailable or the token cannot be read",
+      "engineering_action": "request the property source; do not convert an unreadable token to failure"
+    }
+  ]
+}

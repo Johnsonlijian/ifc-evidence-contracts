@@ -1,0 +1,242 @@
+{
+  "min_mm": 900.0,
+  "variants": {
+    "HS_fail.ifc": {
+      "sha256": "612ce93d690acfb838b7a90a1df91bf854fb48475371137988b13254b45c781c",
+      "doors": 9,
+      "masked_step_ids": [
+        2016,
+        2129,
+        2292,
+        4215,
+        4314,
+        4348,
+        4382,
+        4416,
+        9811
+      ],
+      "intact_contract": {
+        "pass": 1,
+        "fail": 8,
+        "pending": 0
+      },
+      "masked_contract": {
+        "pass": 0,
+        "fail": 0,
+        "pending": 9
+      },
+      "restored_contract": {
+        "pass": 1,
+        "fail": 8,
+        "pending": 0
+      },
+      "restored_equals_intact": true,
+      "every_pending_names_source": true,
+      "intact_binary": {
+        "document_passes": false,
+        "specs": [
+          {
+            "name": "OverallWidth availability",
+            "status": true
+          },
+          {
+            "name": "OverallWidth at least 900 native millimetres",
+            "status": false
+          }
+        ]
+      },
+      "masked_binary": {
+        "document_passes": false,
+        "specs": [
+          {
+            "name": "OverallWidth availability",
+            "status": false
+          },
+          {
+            "name": "OverallWidth at least 900 native millimetres",
+            "status": false
+          }
+        ]
+      },
+      "binary_fails_after_masking": false
+    },
+    "HS_fail_preprocessed.ifc": {
+      "sha256": "c3e25a24f34606dcd25256e728706022cec58eb9599c212465c49cce88f62be4",
+      "doors": 9,
+      "masked_step_ids": [
+        2016,
+        2129,
+        2292,
+        4215,
+        4314,
+        4348,
+        4382,
+        4416,
+        9811
+      ],
+      "intact_contract": {
+        "pass": 1,
+        "fail": 8,
+        "pending": 0
+      },
+      "masked_contract": {
+        "pass": 0,
+        "fail": 0,
+        "pending": 9
+      },
+      "restored_contract": {
+        "pass": 1,
+        "fail": 8,
+        "pending": 0
+      },
+      "restored_equals_intact": true,
+      "every_pending_names_source": true,
+      "intact_binary": {
+        "document_passes": false,
+        "specs": [
+          {
+            "name": "OverallWidth availability",
+            "status": true
+          },
+          {
+            "name": "OverallWidth at least 900 native millimetres",
+            "status": false
+          }
+        ]
+      },
+      "masked_binary": {
+        "document_passes": false,
+        "specs": [
+          {
+            "name": "OverallWidth availability",
+            "status": false
+          },
+          {
+            "name": "OverallWidth at least 900 native millimetres",
+            "status": false
+          }
+        ]
+      },
+      "binary_fails_after_masking": false
+    },
+    "HS_pass.ifc": {
+      "sha256": "71fce586d4893bda705837f1c61cc3b4262e14be8077e7a77aed9b029f630a4e",
+      "doors": 9,
+      "masked_step_ids": [
+        2016,
+        2129,
+        2292,
+        4215,
+        4314,
+        4348,
+        4382,
+        4416,
+        9811
+      ],
+      "intact_contract": {
+        "pass": 9,
+        "fail": 0,
+        "pending": 0
+      },
+      "masked_contract": {
+        "pass": 0,
+        "fail": 0,
+        "pending": 9
+      },
+      "restored_contract": {
+        "pass": 9,
+        "fail": 0,
+        "pending": 0
+      },
+      "restored_equals_intact": true,
+      "every_pending_names_source": true,
+      "intact_binary": {
+        "document_passes": true,
+        "specs": [
+          {
+            "name": "OverallWidth availability",
+            "status": true
+          },
+          {
+            "name": "OverallWidth at least 900 native millimetres",
+            "status": true
+          }
+        ]
+      },
+      "masked_binary": {
+        "document_passes": false,
+        "specs": [
+          {
+            "name": "OverallWidth availability",
+            "status": false
+          },
+          {
+            "name": "OverallWidth at least 900 native millimetres",
+            "status": false
+          }
+        ]
+      },
+      "binary_fails_after_masking": true
+    },
+    "HS_pass_preprocessed.ifc": {
+      "sha256": "40654b02f153c7eae47b84605d06dd4d60cb9a95ec258b37e65dd482b8e8c436",
+      "doors": 9,
+      "masked_step_ids": [
+        2016,
+        2129,
+        2292,
+        4215,
+        4314,
+        4348,
+        4382,
+        4416,
+        9811
+      ],
+      "intact_contract": {
+        "pass": 9,
+        "fail": 0,
+        "pending": 0
+      },
+      "masked_contract": {
+        "pass": 0,
+        "fail": 0,
+        "pending": 9
+      },
+      "restored_contract": {
+        "pass": 9,
+        "fail": 0,
+        "pending": 0
+      },
+      "restored_equals_intact": true,
+      "every_pending_names_source": true,
+      "intact_binary": {
+        "document_passes": true,
+        "specs": [
+          {
+            "name": "OverallWidth availability",
+            "status": true
+          },
+          {
+            "name": "OverallWidth at least 900 native millimetres",
+            "status": true
+          }
+        ]
+      },
+      "masked_binary": {
+        "document_passes": false,
+        "specs": [
+          {
+            "name": "OverallWidth availability",
+            "status": false
+          },
+          {
+            "name": "OverallWidth at least 900 native millimetres",
+            "status": false
+          }
+        ]
+      },
+      "binary_fails_after_masking": true
+    }
+  },
+  "input_note": "benchmark directory supplied at run time; obtain the variants through DATASETS_AND_LINKS.csv"
+}

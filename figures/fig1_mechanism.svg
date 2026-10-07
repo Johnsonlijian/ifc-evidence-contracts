@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="574.337375pt" height="324pt" viewBox="0 0 574.337375 324" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-07T10:08:06.230608</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 324 
+L 574.337375 324 
+L 574.337375 0 
+L 0 0 
+z
+" style="fill: #f6f3ee"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 19.08 293.2704 
+L 170.28 293.2704 
+Q 176.76 293.2704 176.76 289.5552 
+L 176.76 32.8968 
+Q 176.76 29.1816 170.28 29.1816 
+L 19.08 29.1816 
+Q 12.6 29.1816 12.6 32.8968 
+L 12.6 289.5552 
+Q 12.6 293.2704 19.08 293.2704 
+z
+" style="fill: #ffffff; stroke: #0072b2; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 34.2 106.5816 
+L 93.6 106.5816 
+Q 100.08 106.5816 100.08 102.8664 
+L 100.08 75.6216 
+Q 100.08 71.9064 93.6 71.9064 
+L 34.2 71.9064 
+Q 27.72 71.9064 27.72 75.6216 
+L 27.72 102.8664 
+Q 27.72 106.5816 34.2 106.5816 
+z
+" style="fill: #ffffff; stroke: #e69f00; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 34.2 165.4056 
+L 93.6 165.4056 
+Q 100.08 165.4056 100.08 161.6904 
+L 100.08 134.4456 
+Q 100.08 130.7304 93.6 130.7304 
+L 34.2 130.7304 
+Q 27.72 130.7304 27.72 134.4456 
+L 27.72 161.6904 
+Q 27.72 165.4056 34.2 165.4056 
+z
+" style="fill: #ffffff; stroke: #0072b2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 101.7 165.4056 
+L 161.1 165.4056 
+Q 167.58 165.4056 167.58 161.6904 
+L 167.58 134.4456 
+Q 167.58 130.7304 161.1 130.7304 
+L 101.7 130.7304 
+Q 95.22 130.7304 95.22 134.4456 
+L 95.22 161.6904 
+Q 95.22 165.4056 101.7 165.4056 
+z
+" style="fill: #ffffff; stroke: #56b4e9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 67.68 250.5456 
+L 127.08 250.5456 
+Q 133.56 250.5456 133.56 246.8304 
+L 133.56 219.5856 
+Q 133.56 215.8704 127.08 215.8704 
+L 67.68 215.8704 
+Q 61.2 215.8704 61.2 219.5856 
+L 61.2 246.8304 
+Q 61.2 250.5456 67.68 250.5456 
+z
+" style="fill: #ffffff; stroke: #009e73; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 61.2 124.396752 
+Q 61.2 118.655255 61.2 113.919989 
+" clip-path="url(#p22209157ea)" style="fill: none; stroke: #e69f00; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 59.6 117.119989 
+L 61.2 113.919989 
+L 62.8 117.119989 
+z
+" clip-path="url(#p22209157ea)" style="fill: #e69f00; stroke: #e69f00; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 188.64 122.9904 
+L 335.52 122.9904 
+Q 342 122.9904 342 119.2752 
+L 342 63.8568 
+Q 342 60.1416 335.52 60.1416 
+L 188.64 60.1416 
+Q 182.16 60.1416 182.16 63.8568 
+L 182.16 119.2752 
+Q 182.16 122.9904 188.64 122.9904 
+z
+" style="fill: #ffffff; stroke: #0072b2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 188.64 195.7464 
+L 335.52 195.7464 
+Q 342 195.7464 342 192.0312 
+L 342 136.6128 
+Q 342 132.8976 335.52 132.8976 
+L 188.64 132.8976 
+Q 182.16 132.8976 182.16 136.6128 
+L 182.16 192.0312 
+Q 182.16 195.7464 188.64 195.7464 
+z
+" style="fill: #ffffff; stroke: #56b4e9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 188.64 268.5024 
+L 335.52 268.5024 
+Q 342 268.5024 342 264.7872 
+L 342 209.3688 
+Q 342 205.6536 335.52 205.6536 
+L 188.64 205.6536 
+Q 182.16 205.6536 182.16 209.3688 
+L 182.16 264.7872 
+Q 182.16 268.5024 188.64 268.5024 
+z
+" style="fill: #ffffff; stroke: #d55e00; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 357.12 149.3064 
+L 536.4 149.3064 
+Q 542.88 149.3064 542.88 145.5912 
+L 542.88 32.8968 
+Q 542.88 29.1816 536.4 29.1816 
+L 357.12 29.1816 
+Q 350.64 29.1816 350.64 32.8968 
+L 350.64 145.5912 
+Q 350.64 149.3064 357.12 149.3064 
+z
+" style="fill: #ffffff; stroke: #d55e00; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 357.12 283.9824 
+L 536.4 283.9824 
+Q 542.88 283.9824 542.88 280.2672 
+L 542.88 169.1208 
+Q 542.88 165.4056 536.4 165.4056 
+L 357.12 165.4056 
+Q 350.64 165.4056 350.64 169.1208 
+L 350.64 280.2672 
+Q 350.64 283.9824 357.12 283.9824 
+z
+" style="fill: #ffffff; stroke: #009e73; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="14.76" y="24.673719" transform="rotate(-0 14.76 24.673719)">A  Encoded routes</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="182.7" y="24.066609" transform="rotate(-0 182.7 24.066609)">B  Route effects, 60 files</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="351.72" y="23.753406" transform="rotate(-0 351.72 23.753406)">C  Two independent contrasts</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0072b2" x="22.32" y="45.034656" transform="rotate(-0 22.32 45.034656)">Delivered model bytes stay fixed</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5e584e" x="22.32" y="57.797687" transform="rotate(-0 22.32 57.797687)">Paths to the same value differ.</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #e69f00" x="61.2" y="85.575419" transform="rotate(-0 61.2 85.575419)">IfcBuilding</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 6px; font-family: 'DejaVu Sans'; fill: #5e584e" transform="translate(29.963906 94.430025)">shared BuildingClass</text>
+    <text style="font-size: 6px; font-family: 'DejaVu Sans'; fill: #5e584e" transform="translate(53.005313 102.811275)">value</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0072b2" x="61.2" y="145.104887" transform="rotate(-0 61.2 145.104887)">IfcDoor</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5e584e" x="61.2" y="157.135744" transform="rotate(-0 61.2 157.135744)">occurrence</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #56b4e9" x="128.7" y="145.104887" transform="rotate(-0 128.7 145.104887)">IfcWall</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5e584e" x="128.7" y="157.154025" transform="rotate(-0 128.7 157.154025)">opening host</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #009e73" x="94.68" y="229.539419" transform="rotate(-0 94.68 229.539419)">IfcDoorType</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5e584e" x="94.68" y="242.294025" transform="rotate(-0 94.68 242.294025)">FireRating on the type</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e69f00" x="68.76" y="120.967437" transform="rotate(-0 68.76 120.967437)">shared value</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 6.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5e584e" x="94.68" y="178.318" transform="rotate(-0 94.68 178.318)">IfcRelFillsElement</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #009e73" x="94.68" y="194.726" transform="rotate(-0 94.68 194.726)">IfcRelDefinesByType</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; fill: #1c1c1c" transform="translate(35.861594 266.268375)">IsTypedBy alone stops at the door;</text>
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; fill: #1c1c1c" transform="translate(28.738594 275.108375)">the type assignment is a second edge.</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0072b2" x="191.88" y="77.416453" transform="rotate(-0 191.88 77.416453)">Type route</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #0072b2" x="330.12" y="77.772641" transform="rotate(-0 330.12 77.772641)">3,283</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #1c1c1c" transform="translate(191.88 98.118169)">IFC2X3 IfcRelDefinesByType is encoded;</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #1c1c1c" transform="translate(191.88 107.088169)">a narrow inverse lookup reports absence.</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #56b4e9" x="191.88" y="150.998859" transform="rotate(-0 191.88 150.998859)">Host context</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #56b4e9" x="330.12" y="150.528641" transform="rotate(-0 330.12 150.528641)">2,808</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #1c1c1c" transform="translate(191.88 170.874169)">The opening is reached through its</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #1c1c1c" transform="translate(191.88 179.844169)">host, not by direct containment.</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d55e00" x="191.88" y="223.881062" transform="rotate(-0 191.88 223.881062)">Value filter</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #d55e00" x="330.12" y="223.808672" transform="rotate(-0 330.12 223.808672)">210</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #1c1c1c" transform="translate(191.88 243.630169)">The token is readable and still rejected</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #1c1c1c" transform="translate(191.88 252.600169)">by the declared fire-rating contract.</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d55e00" x="360.36" y="46.582656" transform="rotate(-0 360.36 46.582656)">C1  Controlled masking</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5e584e" x="360.36" y="59.485987" transform="rotate(-0 360.36 59.485987)">134 masks, public models, paired runs</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 7.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="360.36" y="77.862622" transform="rotate(-0 360.36 77.862622)">Binary toolchain (IfcTester 0.8.5)</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="365.76" y="92.723562" transform="rotate(-0 365.76 92.723562)">Obligations dropped</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #d55e00" x="533.16" y="93.776672" transform="rotate(-0 533.16 93.776672)">80</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="365.76" y="105.726762" transform="rotate(-0 365.76 105.726762)">Pass changed to fail</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #d55e00" x="533.16" y="106.838169" transform="rotate(-0 533.16 106.838169)">122</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="365.76" y="118.729962" transform="rotate(-0 365.76 118.729962)">Fail changed to pass</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #009e73" x="533.16" y="119.783072" transform="rotate(-0 533.16 119.783072)">0</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #009e73" x="360.36" y="136.631575" transform="rotate(-0 360.36 136.631575)">All 202 retained as pending, with the missing source named.</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #009e73" x="360.36" y="183.633062" transform="rotate(-0 360.36 183.633062)">C2  One shared source</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5e584e" x="360.36" y="196.948387" transform="rotate(-0 360.36 196.948387)">Masking one building-level value</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="365.76" y="219.659562" transform="rotate(-0 365.76 219.659562)">Applicable checks</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #009e73" x="533.16" y="220.712672" transform="rotate(-0 533.16 220.712672)">525</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="365.76" y="234.520362" transform="rotate(-0 365.76 234.520362)">Removed from filtering</text>
+   </g>
+   <g id="text_42">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #009e73" x="533.16" y="235.573472" transform="rotate(-0 533.16 235.573472)">311</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="365.76" y="250.059287" transform="rotate(-0 365.76 250.059287)">Intact-run failures inside</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #009e73" x="533.16" y="250.434272" transform="rotate(-0 533.16 250.434272)">132</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; fill: #009e73" transform="translate(360.36 267.197175)">Restoring the value returns</text>
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; fill: #009e73" transform="translate(360.36 276.695925)">all 311 decisions.</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 6.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5e584e" x="15.84" y="308.6588" transform="rotate(-0 15.84 308.6588)">C1 and C2 are separate experiments and are not pooled with each other.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p22209157ea">
+   <rect x="7.2" y="7.2" width="540" height="309.6"/>
+  </clipPath>
+ </defs>
+</svg>

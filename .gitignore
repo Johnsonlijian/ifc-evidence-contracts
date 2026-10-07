@@ -1,0 +1,13 @@
+# Provider-controlled raw files and local build outputs
+*.ifc
+*.ids
+*.zip
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.bcf
+*.run.xml
+*.out

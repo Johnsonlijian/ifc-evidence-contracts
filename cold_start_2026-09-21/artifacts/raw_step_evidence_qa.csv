@@ -1,0 +1,3 @@
+model,raw_records,property_value_and_named_membership_checks,attribute_checks,relation_path_checks,failures
+CustomTestModel,112046,4454,275,3476,0
+RealWorldTestModel,168199,10452,96,6166,0

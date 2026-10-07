@@ -1,0 +1,57 @@
+[
+  {
+    "policy": "static_frequency",
+    "contexts": 134,
+    "wins_recovery_auc": 0,
+    "ties_recovery_auc": 54,
+    "losses_recovery_auc": 80,
+    "mean_delta_recovery_auc": -0.03946506422742489,
+    "max_delta_recovery_auc": 0.0,
+    "wins_failed_auc": 17,
+    "mean_delta_failed_auc": 0.0028625810342228293
+  },
+  {
+    "policy": "branch_aware",
+    "contexts": 134,
+    "wins_recovery_auc": 0,
+    "ties_recovery_auc": 131,
+    "losses_recovery_auc": 3,
+    "mean_delta_recovery_auc": -0.0005165385137837424,
+    "max_delta_recovery_auc": 0.0,
+    "wins_failed_auc": 5,
+    "mean_delta_failed_auc": 0.0018967661691542295
+  },
+  {
+    "policy": "risk_aware",
+    "contexts": 134,
+    "wins_recovery_auc": 4,
+    "ties_recovery_auc": 130,
+    "losses_recovery_auc": 0,
+    "mean_delta_recovery_auc": 2.326084269790738e-05,
+    "max_delta_recovery_auc": 0.0011111111111111738,
+    "wins_failed_auc": 8,
+    "mean_delta_failed_auc": 0.0005879692446856623
+  },
+  {
+    "policy": "lookahead_structure",
+    "contexts": 134,
+    "wins_recovery_auc": 0,
+    "ties_recovery_auc": 131,
+    "losses_recovery_auc": 3,
+    "mean_delta_recovery_auc": -0.0005165385137837424,
+    "max_delta_recovery_auc": 0.0,
+    "wins_failed_auc": 5,
+    "mean_delta_failed_auc": 0.0018967661691542295
+  },
+  {
+    "policy": "expected_determinacy",
+    "contexts": 134,
+    "wins_recovery_auc": 4,
+    "ties_recovery_auc": 127,
+    "losses_recovery_auc": 3,
+    "mean_delta_recovery_auc": 7.885086879988457e-06,
+    "max_delta_recovery_auc": 0.0016666666666667052,
+    "wins_failed_auc": 3,
+    "mean_delta_failed_auc": 0.000827774008744158
+  }
+]

@@ -1,0 +1,511 @@
+guid,object_id,entity_class,field,source_property_id,value,datatype,named_psets,via_type,raw_value_and_membership_verified
+0YVU7tDBX86u6UVVsSmdwk,29733,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,29830,0.9,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdwk,29733,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,29832,1.01,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdwk,29733,IfcDoor,Abmessungen.Breite,29834,1.01,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdwk,29733,IfcDoor,Abmessungen.Durchgangsbreite,29836,0.86,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdwk,29733,IfcDoor,Abmessungen.Rohbaubreite,29844,1.01,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdwk,29733,IfcDoor,Konstruktion.Rahmenbreite,29827,0.075,IFCLENGTHMEASURE,[29981],True,True
+0YVU7tDBX86u6UVVsSmdwk,29733,IfcDoor,Sonstige.AL Breite,29795,0.95,IFCLENGTHMEASURE,[29915],False,True
+0YVU7tDBX86u6UVVsSmdwl,32655,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,29830,0.9,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdwl,32655,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,29832,1.01,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdwl,32655,IfcDoor,Abmessungen.Breite,29834,1.01,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdwl,32655,IfcDoor,Abmessungen.Durchgangsbreite,29836,0.86,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdwl,32655,IfcDoor,Abmessungen.Rohbaubreite,29844,1.01,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdwl,32655,IfcDoor,Konstruktion.Rahmenbreite,29827,0.075,IFCLENGTHMEASURE,[29981],True,True
+0YVU7tDBX86u6UVVsSmdwl,32655,IfcDoor,Sonstige.AL Breite,32702,0.95,IFCLENGTHMEASURE,[32750],False,True
+0YVU7tDBX86u6UVVsSmdsz,36243,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,29830,0.9,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdsz,36243,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,29832,1.01,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdsz,36243,IfcDoor,Abmessungen.Breite,29834,1.01,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdsz,36243,IfcDoor,Abmessungen.Durchgangsbreite,29836,0.86,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdsz,36243,IfcDoor,Abmessungen.Rohbaubreite,29844,1.01,IFCLENGTHMEASURE,[29938],True,True
+0YVU7tDBX86u6UVVsSmdsz,36243,IfcDoor,Konstruktion.Rahmenbreite,29827,0.075,IFCLENGTHMEASURE,[29981],True,True
+0YVU7tDBX86u6UVVsSmdsz,36243,IfcDoor,Sonstige.AL Breite,36291,0.95,IFCLENGTHMEASURE,[36340],False,True
+3LF03GdXv2GhSTK1xTZzXE,45630,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,29830,0.9,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzXE,45630,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,29832,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzXE,45630,IfcDoor,Abmessungen.Breite,29834,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzXE,45630,IfcDoor,Abmessungen.Durchgangsbreite,29836,0.86,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzXE,45630,IfcDoor,Abmessungen.Rohbaubreite,29844,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzXE,45630,IfcDoor,Konstruktion.Rahmenbreite,29827,0.075,IFCLENGTHMEASURE,[29981],True,True
+3LF03GdXv2GhSTK1xTZzXE,45630,IfcDoor,Sonstige.AL Breite,45677,0.95,IFCLENGTHMEASURE,[45725],False,True
+3LF03GdXv2GhSTK1xTZzXF,45749,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,29830,0.9,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzXF,45749,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,29832,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzXF,45749,IfcDoor,Abmessungen.Breite,29834,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzXF,45749,IfcDoor,Abmessungen.Durchgangsbreite,29836,0.86,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzXF,45749,IfcDoor,Abmessungen.Rohbaubreite,29844,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzXF,45749,IfcDoor,Konstruktion.Rahmenbreite,29827,0.075,IFCLENGTHMEASURE,[29981],True,True
+3LF03GdXv2GhSTK1xTZzXF,45749,IfcDoor,Sonstige.AL Breite,45796,0.95,IFCLENGTHMEASURE,[45844],False,True
+3LF03GdXv2GhSTK1xTZzYt,49195,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,29830,0.9,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzYt,49195,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,29832,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzYt,49195,IfcDoor,Abmessungen.Breite,29834,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzYt,49195,IfcDoor,Abmessungen.Durchgangsbreite,29836,0.86,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzYt,49195,IfcDoor,Abmessungen.Rohbaubreite,29844,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LF03GdXv2GhSTK1xTZzYt,49195,IfcDoor,Konstruktion.Rahmenbreite,29827,0.075,IFCLENGTHMEASURE,[29981],True,True
+3LF03GdXv2GhSTK1xTZzYt,49195,IfcDoor,Sonstige.AL Breite,49243,0.95,IFCLENGTHMEASURE,[49292],False,True
+3LJODRGPbDdfXHXShFLAS$,50845,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,29830,0.9,IFCLENGTHMEASURE,[29938],True,True
+3LJODRGPbDdfXHXShFLAS$,50845,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,29832,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LJODRGPbDdfXHXShFLAS$,50845,IfcDoor,Abmessungen.Breite,29834,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LJODRGPbDdfXHXShFLAS$,50845,IfcDoor,Abmessungen.Durchgangsbreite,29836,0.86,IFCLENGTHMEASURE,[29938],True,True
+3LJODRGPbDdfXHXShFLAS$,50845,IfcDoor,Abmessungen.Rohbaubreite,29844,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LJODRGPbDdfXHXShFLAS$,50845,IfcDoor,Konstruktion.Rahmenbreite,29827,0.075,IFCLENGTHMEASURE,[29981],True,True
+3LJODRGPbDdfXHXShFLAS$,50845,IfcDoor,Sonstige.AL Breite,50893,0.95,IFCLENGTHMEASURE,[50942],False,True
+3LJODRGPbDdfXHXShFLASv,50966,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,29830,0.9,IFCLENGTHMEASURE,[29938],True,True
+3LJODRGPbDdfXHXShFLASv,50966,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,29832,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LJODRGPbDdfXHXShFLASv,50966,IfcDoor,Abmessungen.Breite,29834,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LJODRGPbDdfXHXShFLASv,50966,IfcDoor,Abmessungen.Durchgangsbreite,29836,0.86,IFCLENGTHMEASURE,[29938],True,True
+3LJODRGPbDdfXHXShFLASv,50966,IfcDoor,Abmessungen.Rohbaubreite,29844,1.01,IFCLENGTHMEASURE,[29938],True,True
+3LJODRGPbDdfXHXShFLASv,50966,IfcDoor,Konstruktion.Rahmenbreite,29827,0.075,IFCLENGTHMEASURE,[29981],True,True
+3LJODRGPbDdfXHXShFLASv,50966,IfcDoor,Sonstige.AL Breite,51014,0.95,IFCLENGTHMEASURE,[51063],False,True
+3LJODRGPbDdfXHXShFLBtR,60947,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBtR,60947,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBtR,60947,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBtR,60947,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBtR,60947,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBtN,63429,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBtN,63429,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBtN,63429,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBtN,63429,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBtN,63429,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBss,63542,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBss,63542,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBss,63542,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBss,63542,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFLBss,63542,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Do,64167,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Do,64167,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Do,64167,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Do,64167,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Do,64167,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8OS,64485,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8OS,64485,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8OS,64485,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8OS,64485,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8OS,64485,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Tj,64587,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Tj,64587,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Tj,64587,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Tj,64587,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Tj,64587,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8TR,64689,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8TR,64689,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8TR,64689,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8TR,64689,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8TR,64689,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Ua,64791,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Ua,64791,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Ua,64791,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Ua,64791,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Ua,64791,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8U8,64893,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8U8,64893,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8U8,64893,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8U8,64893,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8U8,64893,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8H6,64995,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8H6,64995,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8H6,64995,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8H6,64995,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8H6,64995,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Z2,65313,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Z2,65313,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Z2,65313,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Z2,65313,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8Z2,65313,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8bJ,65574,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8bJ,65574,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8bJ,65574,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8bJ,65574,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+3LJODRGPbDdfXHXShFL8bJ,65574,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+3A8hY1UoD7JhnLeZeDyU3l,66721,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+3A8hY1UoD7JhnLeZeDyU3l,66721,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+3A8hY1UoD7JhnLeZeDyU3l,66721,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+3A8hY1UoD7JhnLeZeDyU3l,66721,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+3A8hY1UoD7JhnLeZeDyU3l,66721,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+0ehNcYPbH3JQicvZQLHOvk,171081,IfcDoor,Abmessungen.Breite,171096,0.985000000000001,IFCLENGTHMEASURE,[171133],False,True
+0ehNcYPbH3JQicvZQLHOvk,171081,IfcDoor,Abmessungen.Durchgangsbreite,171097,0.984999999999997,IFCLENGTHMEASURE,[171133],False,True
+0ehNcYPbH3JQicvZQLHO$q,173083,IfcDoor,Abmessungen.Breite,173094,0.985000000000001,IFCLENGTHMEASURE,[173108],False,True
+0ehNcYPbH3JQicvZQLHO$q,173083,IfcDoor,Abmessungen.Durchgangsbreite,173095,0.984999999999997,IFCLENGTHMEASURE,[173108],False,True
+03fYK2KZb9bQXMSPptFYf$,187543,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYf$,187543,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYf$,187543,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYf$,187543,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYf$,187543,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYku,189902,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYku,189902,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYku,189902,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYku,189902,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYku,189902,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYlU,190006,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYlU,190006,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYlU,190006,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYlU,190006,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYlU,190006,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYlo,190104,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYlo,190104,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYlo,190104,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYlo,190104,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYlo,190104,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYJv,190202,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYJv,190202,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYJv,190202,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYJv,190202,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYJv,190202,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYNK,190300,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYNK,190300,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYNK,190300,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYNK,190300,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYNK,190300,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYK6,190398,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYK6,190398,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYK6,190398,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYK6,190398,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYK6,190398,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYLQ,190496,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYLQ,190496,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYLQ,190496,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYLQ,190496,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYLQ,190496,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYQ4,190594,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYQ4,190594,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYQ4,190594,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYQ4,190594,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYQ4,190594,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYRK,190692,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYRK,190692,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYRK,190692,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYRK,190692,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYRK,190692,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYOs,190790,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYOs,190790,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYOs,190790,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYOs,190790,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYOs,190790,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYPu,190888,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYPu,190888,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYPu,190888,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYPu,190888,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYPu,190888,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFYV5,193298,IfcDoor,Abhängigkeiten.Durchgangsbreite Gehflügel,193355,0.8,IFCLENGTHMEASURE,[193429],True,True
+03fYK2KZb9bQXMSPptFYV5,193298,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,193358,1.6,IFCLENGTHMEASURE,[193432],True,True
+03fYK2KZb9bQXMSPptFYV5,193298,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,193360,1.635,IFCLENGTHMEASURE,[193432],True,True
+03fYK2KZb9bQXMSPptFYV5,193298,IfcDoor,Abmessungen.Breite,193362,1.635,IFCLENGTHMEASURE,[193432],True,True
+03fYK2KZb9bQXMSPptFYV5,193298,IfcDoor,Abmessungen.Durchgangsbreite,193364,1.545,IFCLENGTHMEASURE,[193432],True,True
+03fYK2KZb9bQXMSPptFYV5,193298,IfcDoor,Abmessungen.Rohbaubreite,193367,1.635,IFCLENGTHMEASURE,[193432],True,True
+03fYK2KZb9bQXMSPptFZdK,197668,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZdK,197668,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZdK,197668,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZdK,197668,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZdK,197668,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZdo,197766,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZdo,197766,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZdo,197766,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZdo,197766,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZdo,197766,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZay,197864,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZay,197864,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZay,197864,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZay,197864,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZay,197864,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZbq,197962,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZbq,197962,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZbq,197962,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZbq,197962,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZbq,197962,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZgm,198060,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZgm,198060,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZgm,198060,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZgm,198060,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZgm,198060,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZhc,198158,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZhc,198158,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZhc,198158,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZhc,198158,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZhc,198158,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZeI,198256,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZeI,198256,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZeI,198256,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZeI,198256,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZeI,198256,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZf8,198354,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZf8,198354,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZf8,198354,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZf8,198354,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZf8,198354,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZkk,198452,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZkk,198452,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZkk,198452,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZkk,198452,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZkk,198452,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZlI,198550,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZlI,198550,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZlI,198550,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZlI,198550,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+03fYK2KZb9bQXMSPptFZlI,198550,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4qvE,198648,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4qvE,198648,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4qvE,198648,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4qvE,198648,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4qvE,198648,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q6s,198746,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q6s,198746,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q6s,198746,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q6s,198746,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q6s,198746,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q7Q,198844,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q7Q,198844,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q7Q,198844,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q7Q,198844,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q7Q,198844,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q7y,198942,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q7y,198942,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q7y,198942,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q7y,198942,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q7y,198942,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q2x,199215,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q2x,199215,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q2x,199215,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q2x,199215,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q2x,199215,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q33,199313,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q33,199313,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q33,199313,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q33,199313,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q33,199313,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q0L,199411,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q0L,199411,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q0L,199411,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q0L,199411,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q0L,199411,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q0n,199509,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q0n,199509,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q0n,199509,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q0n,199509,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q0n,199509,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q13,199607,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,61016,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q13,199607,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,61018,0.76,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q13,199607,IfcDoor,Abmessungen.Breite,61020,1.09,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q13,199607,IfcDoor,Abmessungen.Durchgangsbreite,61022,1.0,IFCLENGTHMEASURE,[61101],True,True
+1oTOc$LbLC8Ob8HP$$4q13,199607,IfcDoor,Abmessungen.Rohbaubreite,61027,1.09,IFCLENGTHMEASURE,[61101],True,True
+279opIq2rEtREtELGBVxHq,211881,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,211943,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxHq,211881,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,211945,0.885,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxHq,211881,IfcDoor,Abmessungen.Breite,211947,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxHq,211881,IfcDoor,Abmessungen.Durchgangsbreite,211949,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxHq,211881,IfcDoor,Abmessungen.Rohbaubreite,211952,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxHB,215290,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,211943,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxHB,215290,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,211945,0.885,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxHB,215290,IfcDoor,Abmessungen.Breite,211947,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxHB,215290,IfcDoor,Abmessungen.Durchgangsbreite,211949,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxHB,215290,IfcDoor,Abmessungen.Rohbaubreite,211952,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxTT,215602,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,211943,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxTT,215602,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,211945,0.885,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxTT,215602,IfcDoor,Abmessungen.Breite,211947,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxTT,215602,IfcDoor,Abmessungen.Durchgangsbreite,211949,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxTT,215602,IfcDoor,Abmessungen.Rohbaubreite,211952,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxUT,215702,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,211943,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxUT,215702,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,211945,0.885,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxUT,215702,IfcDoor,Abmessungen.Breite,211947,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxUT,215702,IfcDoor,Abmessungen.Durchgangsbreite,211949,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxUT,215702,IfcDoor,Abmessungen.Rohbaubreite,211952,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxCY,216362,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,211943,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxCY,216362,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,211945,0.885,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxCY,216362,IfcDoor,Abmessungen.Breite,211947,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxCY,216362,IfcDoor,Abmessungen.Durchgangsbreite,211949,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxCY,216362,IfcDoor,Abmessungen.Rohbaubreite,211952,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxDe,216462,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,211943,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxDe,216462,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,211945,0.885,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxDe,216462,IfcDoor,Abmessungen.Breite,211947,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxDe,216462,IfcDoor,Abmessungen.Durchgangsbreite,211949,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxDe,216462,IfcDoor,Abmessungen.Rohbaubreite,211952,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxB4,216944,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,211943,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxB4,216944,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,211945,0.885,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxB4,216944,IfcDoor,Abmessungen.Breite,211947,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxB4,216944,IfcDoor,Abmessungen.Durchgangsbreite,211949,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxB4,216944,IfcDoor,Abmessungen.Rohbaubreite,211952,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxqA,217044,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,211943,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxqA,217044,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,211945,0.885,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxqA,217044,IfcDoor,Abmessungen.Breite,211947,0.87,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxqA,217044,IfcDoor,Abmessungen.Durchgangsbreite,211949,0.8,IFCLENGTHMEASURE,[212014],True,True
+279opIq2rEtREtELGBVxqA,217044,IfcDoor,Abmessungen.Rohbaubreite,211952,0.87,IFCLENGTHMEASURE,[212014],True,True
+11eI7IJI9EJgsn80j11Erx,228126,IfcDoor,Abhängigkeiten.Durchgangsbreite Gehflügel,193355,0.8,IFCLENGTHMEASURE,[193429],True,True
+11eI7IJI9EJgsn80j11Erx,228126,IfcDoor,Abmessungen.Angabe Lichter Durchgang Breite,193358,1.6,IFCLENGTHMEASURE,[193432],True,True
+11eI7IJI9EJgsn80j11Erx,228126,IfcDoor,Abmessungen.Angabe Maueröffnungsmaß Breite,193360,1.635,IFCLENGTHMEASURE,[193432],True,True
+11eI7IJI9EJgsn80j11Erx,228126,IfcDoor,Abmessungen.Breite,193362,1.635,IFCLENGTHMEASURE,[193432],True,True
+11eI7IJI9EJgsn80j11Erx,228126,IfcDoor,Abmessungen.Durchgangsbreite,193364,1.545,IFCLENGTHMEASURE,[193432],True,True
+11eI7IJI9EJgsn80j11Erx,228126,IfcDoor,Abmessungen.Rohbaubreite,193367,1.635,IFCLENGTHMEASURE,[193432],True,True
+23Np8uMAvEN9H6Ds49debS,14748,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[14898],False,True
+23Np8uMAvEN9H6Ds49dea4,14942,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[15004],False,True
+23Np8uMAvEN9H6Ds49deZx,15047,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[15109],False,True
+23Np8uMAvEN9H6Ds49de77,15347,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[15471],False,True
+23Np8uMAvEN9H6Ds49de4U,15514,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[15576],False,True
+23Np8uMAvEN9H6Ds49de3t,15619,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[15681],False,True
+23Np8uMAvEN9H6Ds49de1S,15724,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[15786],False,True
+23Np8uMAvEN9H6Ds49dh$Z,15829,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[15895],False,True
+23Np8uMAvEN9H6Ds49dh_f,15938,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[16002],False,True
+23Np8uMAvEN9H6Ds49dhzi,16045,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[16109],False,True
+23Np8uMAvEN9H6Ds49dhyz,16152,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[16216],False,True
+23Np8uMAvEN9H6Ds49dhxn,16259,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[16323],False,True
+23Np8uMAvEN9H6Ds49dhw1,16366,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[16430],False,True
+23Np8uMAvEN9H6Ds49dhvA,16473,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[16537],False,True
+23Np8uMAvEN9H6Ds49dhvb,16580,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[16644],False,True
+23Np8uMAvEN9H6Ds49djm8,18351,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[18413],False,True
+0YVU7tDBX86u6UVVsSmdxf,19381,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[19503],False,True
+0YVU7tDBX86u6UVVsSmdxc,19546,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[19608],False,True
+0YVU7tDBX86u6UVVsSmdxd,19651,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[19713],False,True
+0YVU7tDBX86u6UVVsSmdxa,19820,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[19882],False,True
+0YVU7tDBX86u6UVVsSmdxb,19925,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[19991],False,True
+0YVU7tDBX86u6UVVsSmdxY,20034,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[20096],False,True
+0YVU7tDBX86u6UVVsSmdxZ,20139,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[20201],False,True
+0YVU7tDBX86u6UVVsSmdxW,20302,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[20364],False,True
+0YVU7tDBX86u6UVVsSmdwF,22894,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[22958],False,True
+0YVU7tDBX86u6UVVsSmdwC,23064,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[23126],False,True
+0YVU7tDBX86u6UVVsSmdwT,25828,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[25890],False,True
+0YVU7tDBX86u6UVVsSmdwR,25933,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[25995],False,True
+0YVU7tDBX86u6UVVsSmdwO,26038,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[26100],False,True
+0YVU7tDBX86u6UVVsSmdwP,26203,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[26265],False,True
+0YVU7tDBX86u6UVVsSmdwM,26308,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[26370],False,True
+0YVU7tDBX86u6UVVsSmdwN,26413,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[26475],False,True
+0YVU7tDBX86u6UVVsSmdwK,26518,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[26582],False,True
+0YVU7tDBX86u6UVVsSmdwI,26625,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[26687],False,True
+0YVU7tDBX86u6UVVsSmdwJ,26790,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[26852],False,True
+0YVU7tDBX86u6UVVsSmdwG,26895,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[26957],False,True
+0YVU7tDBX86u6UVVsSmdwH,27000,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[27062],False,True
+0YVU7tDBX86u6UVVsSmdus,32808,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[32870],False,True
+0YVU7tDBX86u6UVVsSmdsy,32973,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[33575],False,True
+3LF03GdXv2GhSTK1xTZzXp,38195,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[38257],False,True
+3LF03GdXv2GhSTK1xTZzXy,38300,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[38362],False,True
+3LF03GdXv2GhSTK1xTZzXz,38405,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[38467],False,True
+3LF03GdXv2GhSTK1xTZzX_,38574,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[38636],False,True
+3LF03GdXv2GhSTK1xTZzX$,38679,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[38741],False,True
+3LF03GdXv2GhSTK1xTZzXu,38784,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[38846],False,True
+3LF03GdXv2GhSTK1xTZzXv,38889,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[38951],False,True
+3LF03GdXv2GhSTK1xTZzXw,39052,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[39114],False,True
+3LF03GdXv2GhSTK1xTZzXf,41446,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[41508],False,True
+3LF03GdXv2GhSTK1xTZzXg,41614,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[41676],False,True
+3LF03GdXv2GhSTK1xTZzXP,44376,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[44438],False,True
+3LF03GdXv2GhSTK1xTZzXR,44481,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[44543],False,True
+3LF03GdXv2GhSTK1xTZzX4,44586,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[44648],False,True
+3LF03GdXv2GhSTK1xTZzX5,44751,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[44813],False,True
+3LF03GdXv2GhSTK1xTZzX6,44856,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[44918],False,True
+3LF03GdXv2GhSTK1xTZzX7,44961,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[45023],False,True
+3LF03GdXv2GhSTK1xTZzX0,45066,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[45128],False,True
+3LF03GdXv2GhSTK1xTZzX2,45171,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[45233],False,True
+3LF03GdXv2GhSTK1xTZzX3,45336,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[45398],False,True
+3LF03GdXv2GhSTK1xTZzXC,45441,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[45503],False,True
+3LF03GdXv2GhSTK1xTZzXD,45546,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[45608],False,True
+3LF03GdXv2GhSTK1xTZzYr,45896,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[45958],False,True
+3LF03GdXv2GhSTK1xTZzYs,46061,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[46529],False,True
+3LJODRGPbDdfXHXShFLBoR,58316,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[58378],False,True
+3LJODRGPbDdfXHXShFLBq$,58603,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[58665],False,True
+3LJODRGPbDdfXHXShFL894,63663,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[63725],False,True
+3LJODRGPbDdfXHXShFL88B,63768,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[63830],False,True
+3LJODRGPbDdfXHXShFL8Bf,63873,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[63935],False,True
+3LJODRGPbDdfXHXShFL8Af,63978,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[64040],False,True
+3LJODRGPbDdfXHXShFL8AW,64083,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[64145],False,True
+3LJODRGPbDdfXHXShFL8Z_,65229,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[65291],False,True
+3LJODRGPbDdfXHXShFL8bG,65490,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[65552],False,True
+12bPoIwbv0tBGfPfnvCUEu,140677,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[141157],False,True
+12bPoIwbv0tBGfPfnvCUCC,141324,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[141717],False,True
+12bPoIwbv0tBGfPfnvCUAC,142349,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[142603],False,True
+12bPoIwbv0tBGfPfnvCUBy,142727,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[143120],False,True
+12bPoIwbv0tBGfPfnvCUsN,143308,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[143725],False,True
+12bPoIwbv0tBGfPfnvCUq4,144369,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[144692],False,True
+12bPoIwbv0tBGfPfnvCUpY,145347,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[145601],False,True
+12bPoIwbv0tBGfPfnvCUnr,145903,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[146013],False,True
+12bPoIwbv0tBGfPfnvCU$y,146635,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[146889],False,True
+12bPoIwbv0tBGfPfnvCUz$,147163,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[147273],False,True
+12bPoIwbv0tBGfPfnvCUc2,147310,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[152553],False,True
+12bPoIwbv0tBGfPfnvCUau,152761,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[154874],False,True
+12bPoIwbv0tBGfPfnvCUYu,154974,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[160167],False,True
+12bPoIwbv0tBGfPfnvCUW2,160373,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[162380],False,True
+1r5xKKzLz189TWIyVJV5GH,182368,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[182615],False,True
+09DVD6VyjAQPA6lucynkDP,182641,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[183050],False,True
+03fYK2KZb9bQXMSPptFXFB,183076,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[183225],False,True
+03fYK2KZb9bQXMSPptFXCr,183251,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[183400],False,True
+03fYK2KZb9bQXMSPptFYo3,183426,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[183575],False,True
+03fYK2KZb9bQXMSPptFYpo,183601,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[183750],False,True
+03fYK2KZb9bQXMSPptFYmw,183776,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[183925],False,True
+03fYK2KZb9bQXMSPptFYnx,183951,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[184100],False,True
+03fYK2KZb9bQXMSPptFYxY,184126,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[184315],False,True
+03fYK2KZb9bQXMSPptFY_S,184341,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[184560],False,True
+03fYK2KZb9bQXMSPptFY$z,184586,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[184735],False,True
+03fYK2KZb9bQXMSPptFYXl,184761,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[185065],False,True
+03fYK2KZb9bQXMSPptFYaq,185101,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[185266],False,True
+03fYK2KZb9bQXMSPptFY1$,193506,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[193823],False,True
+03fYK2KZb9bQXMSPptFY7U,193849,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[194066],False,True
+03fYK2KZb9bQXMSPptFY5w,194092,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[194453],False,True
+03fYK2KZb9bQXMSPptFYAq,194479,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[194700],False,True
+03fYK2KZb9bQXMSPptFYEh,194726,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[194875],False,True
+03fYK2KZb9bQXMSPptFYCJ,194901,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[195050],False,True
+03fYK2KZb9bQXMSPptFZoD,195076,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[195225],False,True
+03fYK2KZb9bQXMSPptFZp7,195251,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[195400],False,True
+03fYK2KZb9bQXMSPptFZmN,195426,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[195575],False,True
+03fYK2KZb9bQXMSPptFZnj,195601,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[195751],False,True
+03fYK2KZb9bQXMSPptFZta,195777,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[195998],False,True
+03fYK2KZb9bQXMSPptFZr2,196024,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[196173],False,True
+03fYK2KZb9bQXMSPptFZwz,196199,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[196348],False,True
+03fYK2KZb9bQXMSPptFZu4,196374,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[196523],False,True
+03fYK2KZb9bQXMSPptFZvz,196549,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[196698],False,True
+03fYK2KZb9bQXMSPptFZ_p,196724,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[196873],False,True
+03fYK2KZb9bQXMSPptFZzD,196899,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[197048],False,True
+03fYK2KZb9bQXMSPptFZYQ,197074,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[197224],False,True
+03fYK2KZb9bQXMSPptFZZe,197250,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[197399],False,True
+03fYK2KZb9bQXMSPptFZXx,197425,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[197646],False,True
+1oTOc$LbLC8Ob8HP$$4q5s,199044,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[199193],False,True
+0N58olkxr7Mww1RX8p2dY1,202259,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[202413],False,True
+0N58olkxr7Mww1RX8p2d$g,202439,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[202591],False,True
+0N58olkxr7Mww1RX8p2dvU,202617,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[202838],False,True
+0N58olkxr7Mww1RX8p2dt_,202864,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[203081],False,True
+0N58olkxr7Mww1RX8p2dsI,203107,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[203260],False,True
+0N58olkxr7Mww1RX8p2dmh,203286,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[203437],False,True
+0N58olkxr7Mww1RX8p2cFX,203463,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[203617],False,True
+0N58olkxr7Mww1RX8p2cEY,203643,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[203860],False,True
+0N58olkxr7Mww1RX8p2c8Q,203886,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[204039],False,True
+0N58olkxr7Mww1RX8p2cA8,204065,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[204219],False,True
+0N58olkxr7Mww1RX8p2c50,204245,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[204399],False,True
+0N58olkxr7Mww1RX8p2c4G,204425,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[204646],False,True
+279opIq2rEtREtELGBVxM6,208382,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[208653],False,True
+279opIq2rEtREtELGBVxSS,215400,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[215580],False,True
+279opIq2rEtREtELGBVx3T,216162,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[216340],False,True
+279opIq2rEtREtELGBVxBs,216744,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[216922],False,True
+0CWDnGbzX4Sf1BesL9Tj2L,218046,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[218298],False,True
+0CWDnGbzX4Sf1BesL9TjCD,218361,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[218425],False,True
+0CWDnGbzX4Sf1BesL9TjFo,218529,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[218657],False,True
+0CWDnGbzX4Sf1BesL9Tj9B,218710,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[218772],False,True
+3POx7FYsP3ahzOj_4LrJA4,219114,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[219180],False,True
+3POx7FYsP3ahzOj_4LrJBW,219223,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[219287],False,True
+3POx7FYsP3ahzOj_4LrJ9X,219330,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[219394],False,True
+1hZK0DPVLAZv0RcYBdvncq,219437,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[219501],False,True
+1hZK0DPVLAZv0RcYBdvnyA,219544,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[219608],False,True
+1f8xgw5JXATObUegeSYZe0,219634,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[219831],False,True
+1f8xgw5JXATObUegeSYZkC,219857,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[220065],False,True
+1f8xgw5JXATObUegeSYZl2,220091,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[220219],False,True
+1f8xgw5JXATObUegeSYZ$C,220245,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[220373],False,True
+1f8xgw5JXATObUegeSYZ$q,220399,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[220530],False,True
+1f8xgw5JXATObUegeSYZBU,220556,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[220667],False,True
+1f8xgw5JXATObUegeSYdAd,220693,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[220898],False,True
+1f8xgw5JXATObUegeSYdCA,220924,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[221052],False,True
+1f8xgw5JXATObUegeSYdES,221078,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[221484],False,True
+1f8xgw5JXATObUegeSYdTC,221540,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[221764],False,True
+3QqcDduqPAKPdXx7VmKQNh,221800,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[221928],False,True
+3QqcDduqPAKPdXx7VmKQMr,221954,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[222082],False,True
+3QqcDduqPAKPdXx7VmKQHt,222108,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[222522],False,True
+3QqcDduqPAKPdXx7VmKQJ3,222578,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[222802],False,True
+1DnXIsP9rDi8TggM6J4GJu,222838,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[222951],False,True
+1DnXIsP9rDi8TggM6J4G8J,222977,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[223107],False,True
+1DnXIsP9rDi8TggM6J4G7S,223133,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[223454],False,True
+1DnXIsP9rDi8TggM6J4G3X,223500,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[223819],False,True
+1DnXIsP9rDi8TggM6J4G2x,223865,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[223993],False,True
+1DnXIsP9rDi8TggM6J4Gvl,224019,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[224152],False,True
+1DnXIsP9rDi8TggM6J4Guu,224178,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[224309],False,True
+1DnXIsP9rDi8TggM6J4GnJ,224335,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[224452],False,True
+1DnXIsP9rDi8TggM6J4GkL,224478,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[224606],False,True
+1DnXIsP9rDi8TggM6J4GiX,224632,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[224947],False,True
+1DnXIsP9rDi8TggM6J4Ggf,224993,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[225308],False,True
+1DnXIsP9rDi8TggM6J4Ge3,225354,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[225482],False,True
+1DnXIsP9rDi8TggM6J4GdI,225508,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[225636],False,True
+1DnXIsP9rDi8TggM6J4Gbq,225662,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[225790],False,True
+0qHt$K$J1CDgKrHmzIgblS,228251,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[228315],False,True
+0qHt$K$J1CDgKrHmzIgbH7,228358,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[228422],False,True
+0qHt$K$J1CDgKrHmzIgbHZ,228465,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[228529],False,True
+0qHt$K$J1CDgKrHmzIgb7t,228798,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[228862],False,True
+0qHt$K$J1CDgKrHmzIgb9L,228905,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[228969],False,True
+0qHt$K$J1CDgKrHmzIgb8B,229012,IfcWall,Pset_WallCommon.LoadBearing,12075,False,IFCBOOLEAN,[229076],False,True

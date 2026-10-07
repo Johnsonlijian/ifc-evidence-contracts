@@ -1,0 +1,25 @@
+{
+  "controlled_hidden_value_noninterference_checks": 24,
+  "withheld_requirement_pending": true,
+  "and_or_short_circuit_checked": true,
+  "intact_decisions": 353,
+  "baseline_distribution": {
+    "pass": 353
+  },
+  "wrong_determinate_decisions": 0,
+  "scenarios": 139,
+  "policy_runs": 417,
+  "hindsight_enumerated_scenarios": 458,
+  "hindsight_not_computed_scenarios": 12,
+  "complementarity_witnesses": 0,
+  "contract_freeze_sha256": "1ff12edca61cb6b9fc97f6c7b1582fbe72de26e658fea3256830fdc2c463349d",
+  "mask_manifest_sha256": "2b1cb9eb3c77240b3442b98d143abc74af260b88f8bacfc60dec4a08fda68abd",
+  "seconds": 4.1,
+  "model_sha256": "19d7d02d53c2b88e86890ee236297b12bbb0f7748030cd32ff6a22762e9966bb",
+  "environment": {
+    "python": "3.11.15",
+    "ifcopenshell": "0.8.5",
+    "pandas": "3.0.3",
+    "numpy": "2.4.4"
+  }
+}

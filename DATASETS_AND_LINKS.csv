@@ -1,0 +1,8 @@
+source,url,licence_or_access,included_derived_products
+TU Wien extended IDS,https://doi.org/10.48436/yh1wr-8t679,obtain original under provider terms, cold-start ledgers only
+TU Wien designed model,https://doi.org/10.48436/hx8gz-zw339,obtain original under provider terms, cold-start ledgers only
+TU Wien project-derived model,https://doi.org/10.48436/fnmrh-crh59,obtain original under provider terms, cold-start ledgers only
+DigitalHub,https://github.com/RWTH-E3D/DigitalHub,obtain original under provider terms, cold-start ledgers only
+Nuyts et al. benchmark,https://doi.org/10.1016/j.aei.2024.102443,article-linked materials subject to provider terms, external-task summary only
+buildingSMART IDS,https://github.com/buildingSMART/IDS,provider repository terms, source digests and task summaries only
+IFC-Bench registry,https://huggingface.co/datasets/sylvainHellin/ifc-bench/tree/b51d1e22de262f95bb98229e10fdd91ee8b6c0c6,provider and model-card terms, registry reference only

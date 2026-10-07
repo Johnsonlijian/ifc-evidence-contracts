@@ -1,0 +1,163 @@
+{
+  "exception_rows_total": 4154,
+  "grand_totals": {
+    "ifctester_dropped_obligations": 80,
+    "ifctester_fail_to_pass": 0,
+    "ifctester_pass_to_fail": 122,
+    "ifctester_spec_exceptions": 4154,
+    "masks": 134,
+    "overlap_reader_pending_ifctester_dropped": 80,
+    "overlap_reader_pending_ifctester_newfail": 122,
+    "reader_pending_retained_all_specs": 18332,
+    "reader_pending_retained_joint": 203
+  },
+  "ifctester_spec_run_attempts": 4760,
+  "ifctester_successful_spec_evaluations": 544,
+  "ifctester_whole_document_attempts": 3,
+  "intact_agreement_note": "reader-vs-IfcTester intact joint-universe statuses agree on all evaluated pairs (390 pass, 13 fail, 372 not_applicable); 39 reader-pending cases are dropped from IfcTester applicability even on the intact files.",
+  "masked_copies_bytes": null,
+  "masks_total": 134,
+  "per_model": {
+    "CustomTestModel": {
+      "mixed-12": {
+        "ifctester_dropped_obligations": 22,
+        "ifctester_fail_to_pass": 0,
+        "ifctester_pass_to_fail": 35,
+        "ifctester_spec_exceptions": 372,
+        "masks": 12,
+        "overlap_reader_pending_ifctester_dropped": 22,
+        "overlap_reader_pending_ifctester_newfail": 35,
+        "reader_pending_retained_all_specs": 1627,
+        "reader_pending_retained_joint": 57
+      },
+      "mixed-4": {
+        "ifctester_dropped_obligations": 9,
+        "ifctester_fail_to_pass": 0,
+        "ifctester_pass_to_fail": 12,
+        "ifctester_spec_exceptions": 372,
+        "masks": 12,
+        "overlap_reader_pending_ifctester_dropped": 9,
+        "overlap_reader_pending_ifctester_newfail": 12,
+        "reader_pending_retained_all_specs": 1571,
+        "reader_pending_retained_joint": 21
+      },
+      "mixed-8": {
+        "ifctester_dropped_obligations": 11,
+        "ifctester_fail_to_pass": 0,
+        "ifctester_pass_to_fail": 25,
+        "ifctester_spec_exceptions": 372,
+        "masks": 12,
+        "overlap_reader_pending_ifctester_dropped": 11,
+        "overlap_reader_pending_ifctester_newfail": 25,
+        "reader_pending_retained_all_specs": 1709,
+        "reader_pending_retained_joint": 37
+      },
+      "owner-group": {
+        "ifctester_dropped_obligations": 4,
+        "ifctester_fail_to_pass": 0,
+        "ifctester_pass_to_fail": 2,
+        "ifctester_spec_exceptions": 465,
+        "masks": 15,
+        "overlap_reader_pending_ifctester_dropped": 4,
+        "overlap_reader_pending_ifctester_newfail": 2,
+        "reader_pending_retained_all_specs": 91,
+        "reader_pending_retained_joint": 6
+      },
+      "single-source": {
+        "ifctester_dropped_obligations": 0,
+        "ifctester_fail_to_pass": 0,
+        "ifctester_pass_to_fail": 10,
+        "ifctester_spec_exceptions": 465,
+        "masks": 15,
+        "overlap_reader_pending_ifctester_dropped": 0,
+        "overlap_reader_pending_ifctester_newfail": 10,
+        "reader_pending_retained_all_specs": 269,
+        "reader_pending_retained_joint": 10
+      }
+    },
+    "RealWorldTestModel": {
+      "mixed-12": {
+        "ifctester_dropped_obligations": 15,
+        "ifctester_fail_to_pass": 0,
+        "ifctester_pass_to_fail": 13,
+        "ifctester_spec_exceptions": 372,
+        "masks": 12,
+        "overlap_reader_pending_ifctester_dropped": 15,
+        "overlap_reader_pending_ifctester_newfail": 13,
+        "reader_pending_retained_all_specs": 4176,
+        "reader_pending_retained_joint": 28
+      },
+      "mixed-4": {
+        "ifctester_dropped_obligations": 2,
+        "ifctester_fail_to_pass": 0,
+        "ifctester_pass_to_fail": 3,
+        "ifctester_spec_exceptions": 372,
+        "masks": 12,
+        "overlap_reader_pending_ifctester_dropped": 2,
+        "overlap_reader_pending_ifctester_newfail": 3,
+        "reader_pending_retained_all_specs": 4062,
+        "reader_pending_retained_joint": 5
+      },
+      "mixed-8": {
+        "ifctester_dropped_obligations": 12,
+        "ifctester_fail_to_pass": 0,
+        "ifctester_pass_to_fail": 10,
+        "ifctester_spec_exceptions": 372,
+        "masks": 12,
+        "overlap_reader_pending_ifctester_dropped": 12,
+        "overlap_reader_pending_ifctester_newfail": 10,
+        "reader_pending_retained_all_specs": 4105,
+        "reader_pending_retained_joint": 22
+      },
+      "owner-group": {
+        "ifctester_dropped_obligations": 5,
+        "ifctester_fail_to_pass": 0,
+        "ifctester_pass_to_fail": 12,
+        "ifctester_spec_exceptions": 775,
+        "masks": 25,
+        "overlap_reader_pending_ifctester_dropped": 5,
+        "overlap_reader_pending_ifctester_newfail": 12,
+        "reader_pending_retained_all_specs": 139,
+        "reader_pending_retained_joint": 17
+      },
+      "single-source": {
+        "ifctester_dropped_obligations": 0,
+        "ifctester_fail_to_pass": 0,
+        "ifctester_pass_to_fail": 0,
+        "ifctester_spec_exceptions": 217,
+        "masks": 7,
+        "overlap_reader_pending_ifctester_dropped": 0,
+        "overlap_reader_pending_ifctester_newfail": 0,
+        "reader_pending_retained_all_specs": 583,
+        "reader_pending_retained_joint": 0
+      }
+    }
+  },
+  "per_model_totals": {
+    "CustomTestModel": {
+      "ifctester_dropped_obligations": 46,
+      "ifctester_fail_to_pass": 0,
+      "ifctester_pass_to_fail": 84,
+      "ifctester_spec_exceptions": 2046,
+      "masks": 66,
+      "overlap_reader_pending_ifctester_dropped": 46,
+      "overlap_reader_pending_ifctester_newfail": 84,
+      "reader_pending_retained_all_specs": 5267,
+      "reader_pending_retained_joint": 131
+    },
+    "RealWorldTestModel": {
+      "ifctester_dropped_obligations": 34,
+      "ifctester_fail_to_pass": 0,
+      "ifctester_pass_to_fail": 38,
+      "ifctester_spec_exceptions": 2108,
+      "masks": 68,
+      "overlap_reader_pending_ifctester_dropped": 34,
+      "overlap_reader_pending_ifctester_newfail": 38,
+      "reader_pending_retained_all_specs": 13065,
+      "reader_pending_retained_joint": 72
+    }
+  },
+  "specs_extended_rejected_at_decode": 31,
+  "specs_official_ids_expressible": 4,
+  "specs_total": 35
+}

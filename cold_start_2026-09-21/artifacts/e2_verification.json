@@ -1,0 +1,92 @@
+{
+  "verification": "PASS",
+  "scenarios": [
+    "single_12075",
+    "single_29830"
+  ],
+  "checks": [
+    {
+      "file": "scenarios.csv",
+      "scenario": "single_12075",
+      "rows": 1,
+      "byte_identical": true,
+      "full_sha256": "558e223fd4a4470f4a4c8179dda3bae35d054cd3d9a9957c9db3dc1899a73293",
+      "rerun_sha256": "558e223fd4a4470f4a4c8179dda3bae35d054cd3d9a9957c9db3dc1899a73293"
+    },
+    {
+      "file": "scenarios.csv",
+      "scenario": "single_29830",
+      "rows": 1,
+      "byte_identical": true,
+      "full_sha256": "ce508741c8d0ff35e4c0f444fb087ad065ca42c64a5a0dc6300af6b13066235e",
+      "rerun_sha256": "ce508741c8d0ff35e4c0f444fb087ad065ca42c64a5a0dc6300af6b13066235e"
+    },
+    {
+      "file": "policy_curves.csv",
+      "scenario": "single_12075",
+      "rows": 6,
+      "byte_identical": true,
+      "full_sha256": "5a8ca703244880e813396881e069af0084e08100f39a58afc6d4e793ae43c57f",
+      "rerun_sha256": "5a8ca703244880e813396881e069af0084e08100f39a58afc6d4e793ae43c57f"
+    },
+    {
+      "file": "policy_curves.csv",
+      "scenario": "single_29830",
+      "rows": 6,
+      "byte_identical": true,
+      "full_sha256": "1103119ca2aeb8ee0ba18bbac744ccbcb0b41ca6a79f98eb1bb4d2aa4c1f52b6",
+      "rerun_sha256": "1103119ca2aeb8ee0ba18bbac744ccbcb0b41ca6a79f98eb1bb4d2aa4c1f52b6"
+    },
+    {
+      "file": "policy_summary.csv",
+      "scenario": "single_12075",
+      "rows": 3,
+      "byte_identical": true,
+      "full_sha256": "c1747376c3d320f359b97db7426348ce11f82600613441e58e8a3fa3d61a3cd1",
+      "rerun_sha256": "c1747376c3d320f359b97db7426348ce11f82600613441e58e8a3fa3d61a3cd1"
+    },
+    {
+      "file": "policy_summary.csv",
+      "scenario": "single_29830",
+      "rows": 3,
+      "byte_identical": true,
+      "full_sha256": "2ee5300df2b4e54cfee864df3c81283c91372c8a6feedaf1bc02c3d1c3b39a05",
+      "rerun_sha256": "2ee5300df2b4e54cfee864df3c81283c91372c8a6feedaf1bc02c3d1c3b39a05"
+    },
+    {
+      "file": "oracle_frontiers.csv",
+      "scenario": "single_12075",
+      "rows": 2,
+      "byte_identical": true,
+      "full_sha256": "8d8cc9d031ac740100f80599b6674418286f5f15bcd2c1d76445e73fb4a2e4d5",
+      "rerun_sha256": "8d8cc9d031ac740100f80599b6674418286f5f15bcd2c1d76445e73fb4a2e4d5"
+    },
+    {
+      "file": "oracle_frontiers.csv",
+      "scenario": "single_29830",
+      "rows": 2,
+      "byte_identical": true,
+      "full_sha256": "3bfd34e465aa537a2ecc3998c9bf816c82d07d6fd9e8a1b59bbaab6196039f6c",
+      "rerun_sha256": "3bfd34e465aa537a2ecc3998c9bf816c82d07d6fd9e8a1b59bbaab6196039f6c"
+    },
+    {
+      "file": "complementarity_witnesses.csv",
+      "scenario": "single_12075",
+      "rows": 0,
+      "byte_identical": true,
+      "full_sha256": "",
+      "rerun_sha256": ""
+    },
+    {
+      "file": "complementarity_witnesses.csv",
+      "scenario": "single_29830",
+      "rows": 0,
+      "byte_identical": true,
+      "full_sha256": "",
+      "rerun_sha256": ""
+    }
+  ],
+  "fresh_process": true,
+  "seconds": 0.7,
+  "utc": "2026-09-21T02:25:08Z"
+}

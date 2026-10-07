@@ -1,0 +1,55 @@
+{
+  "raw_evidence": [
+    {
+      "model": "CustomTestModel",
+      "raw_records": 112046,
+      "property_value_and_named_membership_checks": 4454,
+      "attribute_checks": 275,
+      "relation_path_checks": 3476,
+      "failures": 0
+    },
+    {
+      "model": "RealWorldTestModel",
+      "raw_records": 168199,
+      "property_value_and_named_membership_checks": 10452,
+      "attribute_checks": 96,
+      "relation_path_checks": 6166,
+      "failures": 0
+    }
+  ],
+  "truth_table_controls": 54,
+  "all_source_hashes_unchanged": true,
+  "previous_primary_and_nuyts_byte_overlap": 0,
+  "initial_freeze_archive_verified": true,
+  "controls": [
+    {
+      "model": "CustomTestModel",
+      "candidate_pairs": 1369,
+      "original_applicable": 289,
+      "original_unknown": 175,
+      "masked_unknown": 275,
+      "obligations_dropped_by_false_on_missing_selection": 100,
+      "published_failures_among_dropped": 4,
+      "lost_obligations_retained_as_unknown": 100,
+      "restored_obligations": 100,
+      "all_other_applicability_states_preserved": 1269,
+      "unique_requested_evidence_sources": 1,
+      "source_property_id": 140
+    },
+    {
+      "model": "RealWorldTestModel",
+      "candidate_pairs": 2353,
+      "original_applicable": 525,
+      "original_unknown": 107,
+      "masked_unknown": 418,
+      "obligations_dropped_by_false_on_missing_selection": 311,
+      "published_failures_among_dropped": 132,
+      "lost_obligations_retained_as_unknown": 311,
+      "restored_obligations": 311,
+      "all_other_applicability_states_preserved": 2042,
+      "unique_requested_evidence_sources": 1,
+      "source_property_id": 140
+    }
+  ],
+  "scientific_limit": "Deterministic single-source masking is a software intervention on each of two external-source models (one fictional, one reconstructed from approved project plans). It is not an observed field error rate or an independent expert adjudication. Three-valued logic and provenance are established; no novelty or journal acceptance is certified."
+}

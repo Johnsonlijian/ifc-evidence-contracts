@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite the manuscript."
+title: "Three-valued evidence contracts for IFC egress-door and building-information compliance pre-checks"
+authors:
+  - family-names: Ren
+    given-names: Lijian
+version: 1.0.0
+date-released: 2026-10-06
+license: MIT
